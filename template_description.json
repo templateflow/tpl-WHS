@@ -1,6 +1,12 @@
 {
   "Acknowledgements": "Curated and added to TemplateFlow by MacNicol E and Esteban O.",
-  "Authors": ["Papp EA", "Leergaard TB", "Calabrese E", "Johnson GA", "Bjaalie JG"],
+  "Authors": [
+    "Papp EA",
+    "Leergaard TB",
+    "Calabrese E",
+    "Johnson GA",
+    "Bjaalie JG"
+  ],
   "BIDSVersion": "1.1.0",
   "Identifier": "WHS",
   "License": "CC-by-nc-sa-4.0 International",
@@ -14,14 +20,38 @@
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "1": {
-      "origin": [-9.53125, -24.3359375, -9.6875],
-      "shape": [512, 1024, 512],
-      "zooms": [0.0390625, 0.0390625, 0.0390625]
+      "origin": [
+        -9.53125,
+        -24.3359375,
+        -9.6875
+      ],
+      "shape": [
+        512,
+        1024,
+        512
+      ],
+      "zooms": [
+        0.0390625,
+        0.0390625,
+        0.0390625
+      ]
     },
     "2": {
-      "origin": [-9.53125, -24.3359375, -9.6875],
-      "shape": [200, 400, 200],
-      "zooms": [0.1, 0.1, 0.1]
+      "origin": [
+        -9.53125,
+        -24.3359375,
+        -9.6875
+      ],
+      "shape": [
+        200,
+        400,
+        200
+      ],
+      "zooms": [
+        0.1,
+        0.1,
+        0.1
+      ]
     }
   }
 }
