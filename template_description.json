@@ -15,10 +15,10 @@
   "License": "CC-by-nc-sa-4.0 International",
   "Name": "Waxholm Space atlas of the Sprague Dawley rat brain",
   "ReferencesAndLinks": [
-    "10.1016/j.neuroimage.2014.04.001",
-    "10.1016/j.neuroimage.2014.10.017",
-    "10.1016/j.neuroimage.2014.12.080",
-    "10.1016/j.neuroimage.2019.05.016"
+    "https://doi.org/10.1016/j.neuroimage.2014.04.001",
+    "https://doi.org/10.1016/j.neuroimage.2014.10.017",
+    "https://doi.org/10.1016/j.neuroimage.2014.12.080",
+    "https://doi.org/10.1016/j.neuroimage.2019.05.016"
   ],
   "TemplateFlowVersion": "1.0.0",
   "res": {
