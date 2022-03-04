@@ -20,6 +20,7 @@
     "https://doi.org/10.1016/j.neuroimage.2014.12.080",
     "https://doi.org/10.1016/j.neuroimage.2019.05.016"
   ],
+  "Species": "Rattus norvegicus",
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "1": {
